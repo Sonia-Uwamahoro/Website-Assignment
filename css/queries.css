@@ -14,7 +14,8 @@
 
     .navigation-bar .right{
       display: block !important;
-  }
+      /* text-align: center; */
+        }
     
     .navigation-bar{
     margin: 0 !important;
@@ -29,6 +30,12 @@
   .left ul a{
     font-size: .6em;
 }
+}
+
+@media only screen and (max-width:379px){
+  .navigation-bar .right{
+    text-align: center !important;
+    }
 }
 
 

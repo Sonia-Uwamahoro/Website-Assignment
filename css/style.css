@@ -1042,8 +1042,8 @@ img{
 /* footer */
 
 #footer{
-    background-color: #F2055C;
-    padding-top: 5em;
+    background-color: #f04d5b;
+    padding-top: 1em;
     padding-bottom: 1em;
 }
 .footer{
@@ -1265,12 +1265,12 @@ img{
 
 /* questions */
 
-.nav-front-section-new{
-    background-image: url('../images/three3.png');
+.nav-front-div-new{
+    background-image: url('../images/one11.png');
     width: 100%;
     background-size:cover;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 38px;
+    padding-bottom: 38px;
 }
 
 .questions{
